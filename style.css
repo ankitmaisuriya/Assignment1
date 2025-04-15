@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: inline;
+
+}
+
+.left-content {
+    width: 50%;
+    float: left;
+    padding: 5%;
+    text-align: center;
+}
+
+.right-content {
+    width: 50%;
+    float: right;
+    text-align: left;
+    padding: 5%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+ul {
+    padding-left: 10%;
+}
